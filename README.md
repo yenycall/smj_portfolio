@@ -9,13 +9,13 @@
 Team. Capybara <br>
 Project. BlueCore
 
-02
-Team. 삐용삐용
+02 <br>
+Team. 삐용삐용 <br>
 Project. ESC
 
 _
 
 개인 작업
 
-01
+01 <br>
 Project. Name Me
