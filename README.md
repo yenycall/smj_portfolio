@@ -1,7 +1,9 @@
 ## SMJ PORTFOLIO 심민지 포트폴리오
 **심민지 |** Shim Min Ji   
 
-> 안녕하세요. 미래지향적 작업을 추구하는 열정 웹퍼블리셔 심민지입니다.
+<code>
+안녕하세요. 미래지향적 작업을 추구하는 열정 웹퍼블리셔 심민지입니다.
+</code>
     
 **Contact**   
 **E MAIL |**   yenycall7@naver.com
