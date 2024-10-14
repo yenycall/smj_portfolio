@@ -9,7 +9,7 @@
 
 > **Team** Capybara
 > **Project** Busan BlueCore
->   >부산 블루코어란 부산의 축제 홍보 브랜딩으로 부산의 바다 및 축제 문화를 대표하는 브랜드입니다. 기존 부산의 도시 브랜딩 (Busan is Good) 을 리뉴얼하며 부산에 새로운 의미를 담고자 합니다.
+>   >부산 블루코어란 부산의 축제 홍보 브랜딩으로 부산의 바다 및 축제 문화를 대표하는 브랜드입니다. 기존 부산의 도시 브랜딩 (Busan is Good) 을 리뉴얼하며 부산에 새로운 의미를 담고자 합니다. <  <
 > **URL** <https://yenycall.github.io/bluecore/index.html>   
 > **Tool** Figma, Photoshop, Illustrator, Github    
 > **참여** 기획, 디자인, 웹 구현 (html, css, js)
