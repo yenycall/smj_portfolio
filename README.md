@@ -6,11 +6,10 @@
 ## 1. 참여 작업
 ### 1-1. 팀 프로젝트
 
-> **Team** Capybara   
-> **Project** BlueCore   
-> **URL** <https://yenycall.github.io/bluecore/index.html>   
-> **Tool**  Figma, Photoshop, Illustrator, Github    
-> **참여**  기획, 디자인, 웹 구현 (html, css, js)
+> **Team** Capybara   /   **Project** BlueCore   
+> **URL**  >  <https://yenycall.github.io/bluecore/index.html>   
+> **Tool**  >  Figma, Photoshop, Illustrator, Github    
+> **참여**  >  기획, 디자인, 웹 구현 (html, css, js)
 
 02 <br>
 Team. 삐용삐용 <br>
