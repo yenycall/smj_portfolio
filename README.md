@@ -7,9 +7,9 @@
 # 팀 프로젝트
 
 01 <br>
-Team. Capybara <br>
-Project. BlueCore <br>
-URL. https://yenycall.github.io/bluecore/index.html <br>
+* Team. Capybara
+* Project. BlueCore
+URL. https://yenycall.github.io/bluecore/index.html
 Tool. Figma, Photoshop, Illustrator, Github (html, css, js)
 참여 : 기획, 디자인, 웹 구현
 
