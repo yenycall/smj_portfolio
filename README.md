@@ -1,17 +1,15 @@
 # 심민지 포트폴리오
-SMJ portfolio
+## 0. SMJ PORTFOLIO
 안녕하세요. 미래지향적 작업을 추구하는 열정 웹퍼블리셔 심민지입니다.
----
-<u>4358</u>
-# 참여 작업
+--
 
-# 팀 프로젝트
+## 1. 참여 작업
+### 1-1. 팀 프로젝트
 
-01 <br>
-* Team. Capybara
-* Project. BlueCore
-URL. https://yenycall.github.io/bluecore/index.html
-Tool. Figma, Photoshop, Illustrator, Github (html, css, js)
+> **Team**  Capybara   
+> **Project**  BlueCore   
+> **URL**  <https://yenycall.github.io/bluecore/index.html>   
+> **Tool**  Figma, Photoshop, Illustrator, Github (html, css, js)
 참여 : 기획, 디자인, 웹 구현
 
 02 <br>
