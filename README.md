@@ -12,8 +12,7 @@
 부산 블루코어란 부산의 축제 홍보 브랜딩으로 부산의 바다 및 축제 문화를 대표하는 브랜드입니다.   
 기존 부산의 도시 브랜딩 (Busan is Good) 을 리뉴얼하며 부산에 새로운 의미를 담고자 합니다.   
 
-> **Team** Capybara    
-> **Project** Busan BlueCore    
+> **Team** Capybara     
 > **URL** <https://yenycall.github.io/bluecore/index.html>     
 > **Tool** Figma, Photoshop, Illustrator, Github      
 > **Part** 기획, 디자인, 웹 구현 (html, css, js)
@@ -24,7 +23,6 @@
 구급대원, 병원, 시민 간의 연계를 통한 통합적 서비스를 제공하며 구급대원을 위한 다양한 디바이스 (모바일, 네비게이션, 워치) 의 서비스를 제공합니다.    
 
 > **Team** 삐용삐용
-> **Project** E.S.C.
 > **URL** project in progress
 > **Tool** Figma, Github
 > **Part** 팀장 | 프로젝트 총괄, 웹 구현
