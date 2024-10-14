@@ -3,7 +3,7 @@
     안녕하세요. 미래지향적 작업을 추구하는 열정 웹퍼블리셔 심민지입니다.
     
 **Contact**   
-> E MAIL  yenycall7@naver.com
+> E MAIL   yenycall7@naver.com
 
 ---
 
